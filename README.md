@@ -53,19 +53,28 @@ The project was built as part of my learning journey in software development to 
 ## 🖼️ Screenshots
 
 ### Welcome Screen
-![Welcome Screen](Images/welcome-screen.png)
+![Welcome Screen](Images/Picture1.png)
 
 ### Game Board
-![Game Board](Images/game-board.png)
+![Game Board](Images/Picture2.png)
 
 ### Player Move
-![Player Move](Images/player-move.png)
+![Player Move](Images/Picture3.png)
+
+### Player Move
+![Player Move](Images/Picture4.png)
+
+### Player Move
+![Player Move](Images/Picture5.png)
 
 ### Winning Screen
-![Win Screen](Images/win-screen.png)
+![Win Screen](Images/Picture6.png)
+
+### Player Move
+![Player Move](Images/Picture7.png)
 
 ### Draw Screen
-![Draw Screen](Images/draw-screen.png)
+![Draw Screen](Images/Picture8.png)
 
 ---
 
